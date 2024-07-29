@@ -22,24 +22,7 @@ The Loan Approval dataset is a collection of financial records and associated in
    README.md                        
    requirements.txt - Required libraries and dependencies
 
-## Getting Started
 
-1. Clone this repository:
-   ```
-   git clone https://github.com/yourusername/LoanApproval.git
-   cd LoanApproval
-   ```
-
-2. Set up a virtual environment (optional but recommended):
-   ```
-   python3 -m venv venv
-   source venv/bin/activate
-   ```
-
-3. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
 
 ## Data Exploration and Preprocessing
 
